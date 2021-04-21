@@ -112,5 +112,5 @@ func numDecodings2(s string) int {
 
 	answers[length] = one + two
 	return one + two
-
+}
 ```
